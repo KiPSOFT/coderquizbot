@@ -1,0 +1,14 @@
+{
+    "name": "Return",
+    "question": "What is the result?",
+    "options": [
+        "{geeks: 1}",
+        "{}",
+        "null",
+        "1",
+        "undefined"
+    ],
+    "correctAnserId": 4,
+    "lang": "en",
+    "level": "low"
+}

@@ -1,0 +1,7 @@
+var X = { geeks : 1};  
+var Output = (function() {  
+    delete X.geeks;  
+    return X.geeks;  
+})();  
+  
+console.log(output); 

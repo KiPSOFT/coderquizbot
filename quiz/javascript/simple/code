@@ -1,0 +1,4 @@
+let txt = 'Hi';
+setTimeout(() => {
+    console.log(txt);
+}, 3000);

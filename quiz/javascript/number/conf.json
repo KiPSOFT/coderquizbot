@@ -1,0 +1,12 @@
+{
+    "name": "number",
+    "question": "What is the result?",
+    "options": [
+        "true",
+        "false",
+        "TypeError"
+    ],
+    "correctAnserId": 0,
+    "lang": "en",
+    "level": "low"
+}

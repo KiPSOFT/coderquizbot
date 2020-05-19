@@ -1,0 +1,13 @@
+{
+    "name": "alert",
+    "question": "What does the above alert?",
+    "options": [
+        "function",
+        "member",
+        "object",
+        "undefined"
+    ],
+    "correctAnserId": 3,
+    "lang": "en",
+    "level": "low"
+}

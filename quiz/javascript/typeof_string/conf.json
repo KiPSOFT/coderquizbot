@@ -1,0 +1,12 @@
+{
+    "name": "typeof_string",
+    "question": "What is the result?",
+    "options": [
+        "true",
+        "false",
+        "TypeError"
+    ],
+    "correctAnserId": 0,
+    "lang": "en",
+    "level": "low"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "true_return",
+    "question": "What is printed in the console?",
+    "options": [
+        "true",
+        "false",
+        "ReferenceError"
+    ],
+    "correctAnserId": 0,
+    "lang": "en",
+    "level": "low"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "func_typeof",
+    "question": "What is alerted?",
+    "options": [
+        "number",
+        "function",
+        "undefined",
+        "string",
+        "Error"
+    ],
+    "correctAnserId": 1,
+    "lang": "en",
+    "level": "low"
+}

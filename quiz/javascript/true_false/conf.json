@@ -1,0 +1,13 @@
+{
+    "name": "true_false",
+    "question": "What is the result?",
+    "options": [
+        "true",
+        "false",
+        "TypeError",
+        "NaN"
+    ],
+    "correctAnserId": 1,
+    "lang": "en",
+    "level": "low"
+}

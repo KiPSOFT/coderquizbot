@@ -1,0 +1,22 @@
+{
+  "name": "coderquiz",
+  "version": "0.0.1",
+  "description": "Coder quiz bot for telegram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "coder",
+    "quiz",
+    "telegram"
+  ],
+  "author": "Serkan KOCAMAN",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "nodemon": "^2.0.4",
+    "telegraf": "^3.38.0"
+  }
+}

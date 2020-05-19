@@ -1,0 +1,11 @@
+{
+    "name": "Simple",
+    "question": "What is the result?",
+    "options": [
+        "Hi",
+        "Hello"
+    ],
+    "correctAnserId": 0,
+    "lang": "en",
+    "level": "low"
+}
