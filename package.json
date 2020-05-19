@@ -4,7 +4,7 @@
   "description": "Coder quiz bot for telegram.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "pm2-runtime start ecosystem.config.js"
   },
   "keywords": [
     "code",
@@ -17,6 +17,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "nodemon": "^2.0.4",
+    "pm2": "^4.4.0",
     "telegraf": "^3.38.0"
   }
 }
