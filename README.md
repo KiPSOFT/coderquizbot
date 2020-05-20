@@ -9,15 +9,22 @@ This bot asks you questions about coding. Bot: [t.me/CoderQuizBot](t.me/CoderQui
 
 Question folder structure;
 
-- quiz
-|--langName
-|--|--questionName
-|--|--conf.json
-|--|--code
+|- quiz 
+
+|-- langName 
+
+|---- questionName 
+
+|------ conf.json 
+
+|------ code 
 
 langName is available; javascript, python, rust
+
 questionName is keyword for question.
+
 You don't need create a png file. Bot automatically create code.png file.
+
 
 ### config.json structure
 
@@ -36,11 +43,17 @@ You don't need create a png file. Bot automatically create code.png file.
 }
 ```
 name: Unique question name.
+
 question: is question :)
+
 options: question option string array.
+
 correctAnswerId: Options array index number for correct answer.
+
 lang: Natural language key code.
+
 level: Question level. Available values; low, mid, high
+
 
 ![Coder Quiz Telegram Bot](./demo.png)
 
