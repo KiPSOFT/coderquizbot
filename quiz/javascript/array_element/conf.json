@@ -1,0 +1,12 @@
+{
+    "name": "array_element",
+    "question": "What is the result of console.log?",
+    "options": [
+        "true",
+        "false",
+        "ReferenceError"
+    ],
+    "correctAnserId": 0,
+    "lang": "en",
+    "level": "low"
+}

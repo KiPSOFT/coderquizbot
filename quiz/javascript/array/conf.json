@@ -1,0 +1,12 @@
+{
+    "name": "array",
+    "question": "What is the result?",
+    "options": [
+        ",,,,",
+        "[]",
+        "\"[]\""
+    ],
+    "correctAnserId": 0,
+    "lang": "en",
+    "level": "low"
+}

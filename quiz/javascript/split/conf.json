@@ -1,0 +1,13 @@
+{
+    "name": "split",
+    "question": "What is the result?",
+    "options": [
+        "f,o,o",
+        "TypeError",
+        "[\"f\", \"o\", \"o\"]",
+        "[][][\"f\", \"o\", \"o\"]"
+    ],
+    "correctAnserId": 0,
+    "lang": "en",
+    "level": "low"
+}

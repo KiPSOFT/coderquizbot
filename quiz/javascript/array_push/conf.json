@@ -1,0 +1,13 @@
+{
+    "name": "array_push",
+    "question": "What is printed in the console?",
+    "options": [
+        "['foo', 'bar', 'baz']",
+        "['foo', 'bar', 'baz', 'bin']",
+        "['bin', 'foo', 'bar', 'baz']",
+        "['bin']"
+    ],
+    "correctAnserId": 3,
+    "lang": "en",
+    "level": "low"
+}

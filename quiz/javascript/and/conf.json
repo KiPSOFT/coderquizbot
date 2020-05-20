@@ -1,0 +1,13 @@
+{
+    "name": "and",
+    "question": "What value is alerted?",
+    "options": [
+        "1",
+        "undefined",
+        "NaN",
+        "-1"
+    ],
+    "correctAnserId": 0,
+    "lang": "en",
+    "level": "mid"
+}

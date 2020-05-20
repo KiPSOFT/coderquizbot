@@ -1,0 +1,14 @@
+{
+    "name": "new",
+    "question": "What is printed on the console?",
+    "options": [
+        "ReferrenceError",
+        "TypeError",
+        "undefined",
+        "0",
+        "1"
+    ],
+    "correctAnserId": 2,
+    "lang": "en",
+    "level": "low"
+}

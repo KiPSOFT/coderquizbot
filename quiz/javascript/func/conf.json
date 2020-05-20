@@ -1,0 +1,12 @@
+{
+    "name": "func",
+    "question": "What value is alerted?",
+    "options": [
+        "2",
+        "undefined",
+        "ReferenceError"
+    ],
+    "correctAnserId": 1,
+    "lang": "en",
+    "level": "low"
+}

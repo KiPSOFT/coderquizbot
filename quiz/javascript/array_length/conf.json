@@ -1,0 +1,13 @@
+{
+    "name": "array_length",
+    "question": "What value is alerted?",
+    "options": [
+        "1",
+        "2",
+        "3",
+        "undefined"
+    ],
+    "correctAnserId": 1,
+    "lang": "en",
+    "level": "low"
+}

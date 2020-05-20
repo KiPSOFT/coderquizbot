@@ -1,0 +1,15 @@
+{
+    "name": "plus",
+    "question": "What is the result?",
+    "options": [
+        "ReferenceError",
+        "TypeError",
+        "undefined",
+        "NaN",
+        "4",
+        "5"
+    ],
+    "correctAnserId": 3,
+    "lang": "en",
+    "level": "low"
+}

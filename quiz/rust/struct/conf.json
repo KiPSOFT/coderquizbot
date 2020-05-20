@@ -1,0 +1,15 @@
+{
+    "name": "struct",
+    "question": "What is the output of this Rust program?",
+    "options": [
+        "undefined",
+        "does not compile",
+        "3",
+        "2",
+        "1"
+    ],
+    "correctAnserId": 4,
+    "lang": "en",
+    "level": "high",
+    "resource": "https://dtolnay.github.io/rust-quiz/18"
+}
