@@ -1,5 +1,5 @@
 # Coder Quiz Telegram Bot ###
-This bot asks you questions about coding. Bot: [t.me/CoderQuizBot](t.me/CoderQuizBot)
+This bot asks you questions about coding. Bot: [t.me/CoderQuizBot](https://t.me/CoderQuizBot)
 
 ### Commands
 
