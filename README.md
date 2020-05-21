@@ -3,7 +3,7 @@ This bot asks you questions about coding. Bot: [t.me/CoderQuizBot](t.me/CoderQui
 
 ### Commands
 
-/quiz [langName]: Send quiz.
+/quiz [langName]: Send quiz. langName available values; javascript, python, rust. (Optional)
 
 /results: Send top five scorer.
 
