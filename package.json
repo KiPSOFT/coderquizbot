@@ -15,7 +15,7 @@
   "author": "Serkan KOCAMAN",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "nodemon": "^2.0.4",
     "telegraf": "^3.38.0"
   }
